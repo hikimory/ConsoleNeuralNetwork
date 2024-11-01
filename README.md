@@ -18,5 +18,5 @@ nn.SaveWeightsAndBiases("DigitRecognition_Task.txt");
 nn.LoadWeightsAndBiases("DigitRecognition_Task.txt");
 ```
 
-### You can fully customize the perceptron to your needs:
+### Preview:
 ![Preview Image](./preview/Console.PNG)
